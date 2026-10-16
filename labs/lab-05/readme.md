@@ -1,4 +1,4 @@
-# Lab 06: Group Problem Set (Kattis)
+# Lab 05: Group Problem Set (Kattis)
 
 ## Overview
 
