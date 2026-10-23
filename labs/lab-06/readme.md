@@ -58,6 +58,18 @@
 
 :interrobang: Q06: [Bus Numbers](https://open.kattis.com/problems/busnumbers) <br>
 
+:interrobang: Q07: [Zamka](https://open.kattis.com/problems/zamka) <br>
+
+:interrobang: Q08: [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) <br>
+
+:interrobang: Q09: [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) <br>
+
+:interrobang: Q10: [Sibice](https://open.kattis.com/problems/sibice) <br>
+
+:interrobang: Q11: [Datum](https://open.kattis.com/problems/datum) <br>
+
+:interrobang: Q12: [Aaah!](https://open.kattis.com/problems/aaah) <br>
+
 ---
 
 ## Deliverables (Submit one per group)
