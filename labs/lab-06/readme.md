@@ -38,7 +38,6 @@
 6. **Screenshot Proof**: Once **all test cases pass**, capture a **full screenshot** showing:
 
    * Problem name, your submission verdict (“Accepted”), and timestamp / run ID.
-7. **Reflect (1–2 sentences)**: Note the key trick or edge case you handled.
 
 > :warning: The use of LLMs such as ChatGPT is prohibited. 
 
@@ -48,41 +47,39 @@
 
 :interrobang: Q01: [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) <br>
 
-:interrobang: Q02: [Judging Moose](https://open.kattis.com/problems/judgingmoose) <br>
+:interrobang: Q02: [Sibice](https://open.kattis.com/problems/sibice) <br>
 
 :interrobang: Q03: [Bela](https://open.kattis.com/problems/bela) <br>
 
-:interrobang: Q04: [Dice Game](https://open.kattis.com/problems/dicegame) <br>
+:interrobang: Q04: [Aaah!](https://open.kattis.com/problems/aaah) <br>
 
-:interrobang: Q05: [Bus Numbers](https://open.kattis.com/problems/busnumbers) <br>
+:interrobang: Q05: [Judging Moose](https://open.kattis.com/problems/judgingmoose) <br>
 
 :interrobang: Q06: [Zamka](https://open.kattis.com/problems/zamka) <br>
 
 :interrobang: Q07: [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) <br>
 
-:interrobang: Q08: [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) <br>
+:interrobang: Q08: [Ladder](https://open.kattis.com/problems/ladder) <br>
 
-:interrobang: Q09: [Sibice](https://open.kattis.com/problems/sibice) <br>
+:interrobang: Q09: [Dice Game](https://open.kattis.com/problems/dicegame) <br>
 
 :interrobang: Q10: [Datum](https://open.kattis.com/problems/datum) <br>
 
-:interrobang: Q11: [Aaah!](https://open.kattis.com/problems/aaah) <br>
+:interrobang: Q11: [Bus Numbers](https://open.kattis.com/problems/busnumbers) <br>
 
-:interrobang: Q12: [Ladder](https://open.kattis.com/problems/ladder) <br>
+:interrobang: Q12: [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) <br>
 
 ---
 
 ## Deliverables (Submit one per group)
 
-Make a copy of [this answer template](https://docs.google.com/document/d/1-CzwlAY4wMvXKoFKAhpvfcEiyE6CWBnx3V7kNXzJeDI/copy). 
+Submit a **screenshot for each problem** showing the “All test cases passed” (Accepted) page. Each screenshot must show:
 
-For each problem include:
+* The **problem name**
+* Your submission **verdict** (“Accepted”)
+* The **timestamp / run ID**
 
-* **Screenshot** of “All tests passed” (Accepted verdict visible)
-* **Brief reflection** (1–2 sentences)
-* **Driver/Navigator(s) at time of submission**
-
-Download as a single PDF named: `lab06.pdf` and submit to gradescope. Include every group member’s name.
+Combine the screenshots, in order (Q01–Q12), into a single PDF named `lab06.pdf` and submit it to Gradescope. Include every group member’s name.
 
 
 ---
