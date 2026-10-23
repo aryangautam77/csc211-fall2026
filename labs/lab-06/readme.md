@@ -54,21 +54,21 @@
 
 :interrobang: Q04: [Dice Game](https://open.kattis.com/problems/dicegame) <br>
 
-:interrobang: Q05: [Ladder](https://open.kattis.com/problems/ladder) <br>
+:interrobang: Q05: [Bus Numbers](https://open.kattis.com/problems/busnumbers) <br>
 
-:interrobang: Q06: [Bus Numbers](https://open.kattis.com/problems/busnumbers) <br>
+:interrobang: Q06: [Zamka](https://open.kattis.com/problems/zamka) <br>
 
-:interrobang: Q07: [Zamka](https://open.kattis.com/problems/zamka) <br>
+:interrobang: Q07: [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) <br>
 
-:interrobang: Q08: [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) <br>
+:interrobang: Q08: [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) <br>
 
-:interrobang: Q09: [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) <br>
+:interrobang: Q09: [Sibice](https://open.kattis.com/problems/sibice) <br>
 
-:interrobang: Q10: [Sibice](https://open.kattis.com/problems/sibice) <br>
+:interrobang: Q10: [Datum](https://open.kattis.com/problems/datum) <br>
 
-:interrobang: Q11: [Datum](https://open.kattis.com/problems/datum) <br>
+:interrobang: Q11: [Aaah!](https://open.kattis.com/problems/aaah) <br>
 
-:interrobang: Q12: [Aaah!](https://open.kattis.com/problems/aaah) <br>
+:interrobang: Q12: [Ladder](https://open.kattis.com/problems/ladder) <br>
 
 ---
 
